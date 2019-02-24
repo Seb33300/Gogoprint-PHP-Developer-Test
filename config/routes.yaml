@@ -1,0 +1,4 @@
+product:
+    type:     rest
+    resource: App\Controller\ProductController
+    prefix:   /api
